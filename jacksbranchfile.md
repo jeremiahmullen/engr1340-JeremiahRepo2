@@ -1,1 +1,1 @@
-## This is my branch file - Jack
+# Division simply involves how many times can I take a number away from a larger number(mostly), that returns a whole number. For example, 28 / 7 means how many times can I take 7 from 28, which equals 4.
